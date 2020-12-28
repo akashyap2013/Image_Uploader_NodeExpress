@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.font-poppins{
+    font-family: 'Poppins', sans-serif;
+}
+
+.font-size-09{
+    font-size: .9em;
+}
+
+input:focus{
+    box-shadow: none !important;
+    outline: none !important;
+}
